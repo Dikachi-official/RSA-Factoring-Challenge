@@ -77,7 +77,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 <h3>Author</h3>
 <li>Dikachi-official</li>
 
-Resources
-RSA
-How does HTTPS provide security?
-Prime Factorization
+<h3>Resources</h3>
+<li>RSA</li>
+<li>How does HTTPS provide security?</li>
+<li>Prime Factorization</li>
